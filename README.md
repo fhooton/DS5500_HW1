@@ -1,3 +1,5 @@
 # DS5500_HW1
 
-<iframe width="900" height="800" frameboarder="0" scrolling="no" src="test.html"></iframe>
+Please see link below for rendering of solutions and explinations.
+
+https://nbviewer.jupyter.org/github/fhooton/DS5500_HW1/blob/master/solutions.ipynb
